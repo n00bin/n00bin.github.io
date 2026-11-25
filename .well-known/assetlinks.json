@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.n00bin.wordami",
+      "sha256_cert_fingerprints": [
+        "F9:0C:20:F6:E9:33:35:80:AF:98:6D:34:8D:41:B2:9D:FA:83:DD:01:7C:3F:E5:35:8E:16:C7:45:CC:29:88:BB"
+      ]
+    }
+  }
+]
