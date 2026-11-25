@@ -8,3 +8,5 @@ The fingerprints in that file are public by design. When Google Play signs the a
 SHA-256 fingerprint (Play Console > Test and release > App integrity) must be added to the list.
 
 `.nojekyll` is needed, or GitHub Pages skips the `.well-known` folder.
+
+The app itself lives at https://n00bin.github.io/gintaras/.
